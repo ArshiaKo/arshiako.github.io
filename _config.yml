@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -24,7 +24,7 @@ projects:
   limit: 9
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
     # - repo-name
 
@@ -33,7 +33,7 @@ projects:
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  # instagram: your_username
+  # instagram: arshiako
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
@@ -47,9 +47,9 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Arduino
+    web_url: https://github.com/topics/arduino
+    image_url: https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj20o-az6rmAhWWvp4KHTbNAUoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F547257792214496218%2F&psig=AOvVaw3CWYmREE7nLnNxtEyvYvqf&ust=1576051410942147
 
   - name: Web design
 
