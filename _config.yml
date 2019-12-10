@@ -33,7 +33,7 @@ projects:
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  # instagram: arshiako
+   instagram: arshiako
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
@@ -49,7 +49,7 @@ projects:
 topics:
   - name: Arduino
     web_url: https://github.com/topics/arduino
-    image_url: https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj20o-az6rmAhWWvp4KHTbNAUoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F547257792214496218%2F&psig=AOvVaw3CWYmREE7nLnNxtEyvYvqf&ust=1576051410942147
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png
 
   - name: Web design
 
