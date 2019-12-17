@@ -28,31 +28,34 @@ projects:
     projects:
     # - repo-name
 
- social_media:
-  behance: arshiako
- dribbble: arshiako
- facebook: arshiako
- hackerrank: arshiako
- instagram: arshiako
- keybase: arshiako
- linkedin: arshiako
- mastodon: arshiako
- medium: arshiako
- stackoverflow: arshiako
-telegram: arshiako
- twitter: arshiako
- unsplash: arshiako
-  vk: arshiako
-  website: arshiakohanteb.me
-   youtube: arshiako
+ #social_media:
+  # behance: your_username
+  # dribbble: your_username
+  # facebook: your_username
+  # hackerrank: your_username
+  # instagram: your_username
+  # keybase: your_username
+  # linkedin: your_username
+  # mastodon: your_username
+  # medium: your_username
+  # stackoverflow: your_user_id
+  # telegram: your_username
+  # twitter: your_username
+  # unsplash: your_username
+  # vk: your_username
+  #website: arshiakohanteb.me
+  # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Arduino
+    web_url: https://github.com/topics/arduino
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png
 
-  - name: Web design
+  - name: Java
+  web_url: https://github.com/topics/java
+  image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+
+  - name: C#
+    web_url: https://github.com/topics/c#
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png
