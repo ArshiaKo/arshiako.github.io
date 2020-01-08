@@ -2,10 +2,6 @@ layout: stacked
 style: dark
 
 plugins:
-  - jekyll-gist
-  - jekyll-coffeescript
-  - jekyll-assets
-  - another-jekyll-plugin
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
